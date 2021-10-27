@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/usernamenumb1/actualProjects/issues"
   },
-  "homepage": "https://github.com/usernamenumb1/actualProjects#readme"
+  "homepage": "https://github.com/usernamenumb1/actualProjects#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
